@@ -1,4 +1,4 @@
-# Decisions_Trees
+# Decisions Trees
 
 Machine Learning using Scikit-learn decisions trees models and Iris and California Housing dataset.
 
